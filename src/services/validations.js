@@ -12,5 +12,3 @@ if (label === undefined) {
 
 exports.isEmpty = isEmpty;
 
-
-exports.isEmpty = isEmpty;
